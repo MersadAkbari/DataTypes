@@ -1,0 +1,28 @@
+_______________________________________________
+|
+| Subject : DataTypes !
+|______________________________________________
+|
+| Author : Mersad Akbari :)
+|______________________________________________
+|
+| Tip: "Use MonoSpace Font !"
+|______________________________________________
+|
+| Contact me:
+|     Gmail       : Mersad23Akbari@gmail.com
+|     GitHub      : MersadAkbari
+|     Instagram   : Mersad__ak
+|     Telegram    : Mr_Akbari_23
+|
+|________________________________________________________________________
+| Type      | Default      | Example          | Size         | Range
+_________________________________________________________________________
+| Byte      | 0            | byte a = 10      | 8bit  (1byte)| -128 => 127
+| Short     | 0            | short a = 1000   | 16bit (2byte)| -32,768 => 32,767
+| Int       | 0            | int a = 10,000   | 32bit (4byte)| -2,147,483,648 => 2,147,483,647
+| Long      | 0            | long a = 100,000L| 64bit (8byte)| -9,223,372,036,854,775,808 => 9,223,372,036,854,775,807
+| Float     | 0.0          | float a = 100.1f | 32bit (4byte)| 1.175494351 E - 38 => 3.402823466 E + 38
+| Double    | 0.0          | double a = 100.11| 64bit (8byte)| 2.2250738585072014 E - 308 => 1.7976931348623158 E + 308
+| Boolean   | False        | boolean a = True | 1bit         | False , True
+| char      | \u0000 (0)   | char a = 'a'     | 16bit (2byte)| \u0000 (0) => \uffff (65,535)
