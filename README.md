@@ -1,4 +1,4 @@
-# Some information about datatypes include :
+# Some informations about datatypes include :
 	1 - Default value
 	2 - Example
 	3 - Size
