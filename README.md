@@ -3,4 +3,14 @@
 	2 - Example
 	3 - Size
 	4 - Range
-### Open the DataTypes.txt to see !
+	
+# How to Use :
+   ### Open the DataTypes.txt ! :+1:
+   or
+   ### Use this command in terminal to download this repository :
+	git clone https://github.com/MersadAkbari/DataTypes
+
+# Author :
+[Gmail](Mersad23Akbari@gmail.com)
+
+[GitHub](github.com/MersadAkbari)
