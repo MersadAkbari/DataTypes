@@ -5,12 +5,13 @@
 	4 - Range
 	
 # How to Use :
-   ### Open the DataTypes.txt ! :+1:
+   #### Open the DataTypes.txt ! :+1:
    or
-   ### Use this command in terminal to download this repository :
+   #### Use this command in terminal to download this repository :
 	git clone https://github.com/MersadAkbari/DataTypes
 
-# Author : MersadAkbari :)
+ Author : MersadAkbari :)
+ 
 [Gmail](Mersad23Akbari@gmail.com)
 
 [GitHub](github.com/MersadAkbari)
